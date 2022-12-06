@@ -339,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\STM32\include</IncludePath>
+              <IncludePath>..\..\include</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
